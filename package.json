@@ -1,7 +1,13 @@
 {
   "name": "better-sort",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Syntactic sugar wrapper over JS sort function with better readability",
+  "keywords": [
+    "sort",
+    "array",
+    "better",
+    "readable"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
